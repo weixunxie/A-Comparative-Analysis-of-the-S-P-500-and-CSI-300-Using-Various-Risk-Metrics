@@ -51,4 +51,5 @@ Our study offers valuable insights into the risk profiles of the S&P 500 and CSI
 ## References:
 
 Cogneau, P. “Backtesting Value-at-Risk: how good is the model?  Intelligent Risk, PRMIA, July, 2015.
+
 Rockafellar, R. T. and S. Uryasev. "Conditional Value-at-Risk for General Loss Distributions." Journal of Banking and Finance. Vol. 26, 2002, pp. 1443–1471.
